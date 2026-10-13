@@ -1,4 +1,4 @@
-# nodejs-mosh
+# nodejs-fundamentals
 
 Small Node.js examples I wrote while learning backend basics: core modules, async code, Express and MongoDB with Mongoose. Each folder is one topic and runs on its own.
 

@@ -1,8 +1,16 @@
 {
-  "name": "nodejs-mosh",
+  "name": "nodejs-fundamentals",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizalzafri/nodejs-fundamentals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faizalzafri/nodejs-fundamentals/issues"
+  },
+  "homepage": "https://github.com/faizalzafri/nodejs-fundamentals#readme",
   "engines": {
     "node": ">=20.19"
   },
